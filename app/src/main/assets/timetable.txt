@@ -1,1 +1,46 @@
 Monday :
+1) Math : 125
+2) Math : 125
+3) French : 103
+4) PE
+5) Chemistry : 021
+7) Biology : 029
+8) German : 123
+9) <empty>
+
+Tuesday :
+1) Philosophy : 131
+2) French : 103
+3) PE
+4) Laboratory : 120, 021
+5) Laboratory : 120, 021
+7) English: 036
+8) Math : 142
+9) History : 133
+
+Wednesday :
+1) Math : 142
+2) English : 036
+3) French : 103
+4) Physics : 120
+5) History : 133
+
+Thursday :
+1) German : 123
+2) German : 123
+3) Math : 125
+4) Geography : 027
+5) English: 036
+7) PE
+8) French : 103
+9) French : 103
+
+Friday :
+1) Geography : 027
+2) Philosophy : 031
+3) English : 036
+4) German : 123
+5) Chemistry : 021
+7) Physics : 120
+8) <empty>
+9) <empty>
