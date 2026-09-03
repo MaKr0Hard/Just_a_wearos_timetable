@@ -1,4 +1,4 @@
-# Temporary timetable
+# Just a wearos timetable
 
 Name is self-explanatory
 
